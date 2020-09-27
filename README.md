@@ -9,6 +9,7 @@ KoNLP
 [![Travis-CI Build Status](https://travis-ci.org/haven-jeon/KoNLP.svg?branch=master)](https://travis-ci.org/haven-jeon/KoNLP)
 [![Join the chat at https://gitter.im/KoNLP/KoNLP](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KoNLP/KoNLP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+"This is a line from RStudio"
 
 POS Tagger and Morphological Analyzer for Korean text based research. It provides tools for corpus linguistics research such as Keystroke converter, Hangul automata, Concordance, and Mutual Information. It also provides a convenient interface for users to apply, edit and add morphological dictionary selectively. 
 
